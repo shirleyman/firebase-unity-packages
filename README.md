@@ -36,9 +36,9 @@ Add the following lines to your Unity `manifest.json`:
 These packages are also available on [OpenUPM](https://openupm.com). To install via the CLI:
 
 ```bash
-openupm add com.shirleyman.google.firebase.app
-openupm add com.shirleyman.google.firebase.analytics
-openupm add com.shirleyman.google.firebase.crashlytics
+openupm add com.google.firebase.app
+openupm add com.google.firebase.analytics
+openupm add com.google.firebase.crashlytics
 ```
 
 > You may need to [enable scoped registries](https://openupm.com/docs/getting-started.html#scoped-registry) in your Unity project to use OpenUPM.
