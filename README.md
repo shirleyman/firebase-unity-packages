@@ -53,7 +53,7 @@ All original work is © Google and Firebase. This mirror is unofficial and provi
 
 ---
 
-## 🙋‍♂️ Why This Exists
+## 🙋‍♀️ Why This Exists
 
 Google's official Firebase Unity SDK is distributed as `.tgz` tarballs which are not UPM-friendly out of the box. This repo repackages them into UPM-compliant folder structures to:
 
