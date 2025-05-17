@@ -1,7 +1,7 @@
 
 # Firebase Unity Packages (Unofficial UPM Mirror)
 
-This repository provides an **unofficial mirror** of select Firebase Unity SDK packages—**Core (App), Analytics, and Crashlytics**—restructured for easy installation via Unity's **Package Manager (UPM)** and **OpenUPM**.
+This repository provides an **unofficial mirror** of select Firebase Unity SDK packages—**Core (App), Analytics, and Crashlytics**—restructured for easy installation via Unity's **Package Manager (UPM)**.
 
 > ⚠️ This project is **not affiliated with or maintained by Google or Firebase**. It is provided for the convenience of Unity developers who prefer using UPM workflows.
 
@@ -28,21 +28,6 @@ Add the following lines to your Unity `manifest.json`:
   "com.google.firebase.crashlytics": "https://github.com/shirleyman/firebase-unity-packages.git?path=firebase-crashlytics"
 }
 ```
-
----
-
-## 🌐 Installation via OpenUPM
-
-These packages are also available on [OpenUPM](https://openupm.com). To install via the CLI:
-
-```bash
-openupm add com.google.firebase.app
-openupm add com.google.firebase.analytics
-openupm add com.google.firebase.crashlytics
-```
-
-> You may need to [enable scoped registries](https://openupm.com/docs/getting-started.html#scoped-registry) in your Unity project to use OpenUPM.
-
 ---
 
 ## 📄 License
